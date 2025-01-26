@@ -14,4 +14,3 @@ text_highlighter
 bio
 openai
 PyPDF2
-requests
