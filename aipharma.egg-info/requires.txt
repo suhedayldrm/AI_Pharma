@@ -12,5 +12,4 @@ transformers
 sacremoses
 text_highlighter
 bio
-openai
-PyPDF2
+
