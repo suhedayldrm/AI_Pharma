@@ -8,6 +8,5 @@ mpld3
 hydralit_components
 torch
 torchaudio
-transformers
-sacremoses
+
 
