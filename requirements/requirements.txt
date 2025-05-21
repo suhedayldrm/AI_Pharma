@@ -15,4 +15,3 @@ bio
 openai
 PyPDF2
 requests
-python-dotenv
